@@ -1,4 +1,4 @@
-package SumofNUm;
+package SumofNum;
 
 public class sumlogic {
     int sum(int a,int b,int c,int d,int e){

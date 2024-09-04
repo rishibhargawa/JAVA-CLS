@@ -1,10 +1,10 @@
-package SumofNUm;
+package SumofNum;
 import java.util.Scanner;
 public class sum_average {
     public static void main(String[] args) {
         sumlogic obj=new sumlogic();
         Scanner sc=new Scanner(System.in);
-        System.out.println("Enter your Numbers: ");
+        System.out.print("Enter your Numbers: ");
         int num1=sc.nextInt();
         int num2=sc.nextInt();
         int num3=sc.nextInt();
