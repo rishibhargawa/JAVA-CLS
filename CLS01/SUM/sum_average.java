@@ -1,4 +1,4 @@
-package SumofNum;
+package SUM;
 import java.util.Scanner;
 public class sum_average {
     public static void main(String[] args) {
