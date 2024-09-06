@@ -16,4 +16,4 @@ public class sum_average {
     }
 }
 
-//MAKE IT USING ARRAY(_DONE_)
+//MAKE IT USING ARRAY (_DONE_)
