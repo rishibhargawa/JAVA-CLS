@@ -5,14 +5,15 @@ public class sum_average {
         sumlogic obj=new sumlogic();
         Scanner sc=new Scanner(System.in);
         System.out.print("Enter your Numbers: ");
-        int num1=sc.nextInt();
-        int num2=sc.nextInt();
-        int num3=sc.nextInt();
-        int num4=sc.nextInt();
-        int num5=sc.nextInt();
-        System.out.println("Sum is: "+obj.sum(num1, num2, num3, num4, num5));
-        System.out.println("Average is: "+obj.sum(num1, num2, num3, num4, num5)/5);
+        int arr[]=new int[5]; //Array Declaration
+        for(int i=0;i<5;i++){ //Loop for Iteration
+           arr[i]=sc.nextInt(); //Input in Array Indexes
+        }
+        int result =obj.sum(arr); //Defined result var to call method
+        System.out.println("SUM is: "+result);
+           System.out.println("Average is: "+result/5);
+
     }
 }
 
-//MAKE IT USING ARRAY
+//MAKE IT USING ARRAY(_DONE_)
