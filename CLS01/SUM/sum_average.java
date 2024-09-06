@@ -4,7 +4,7 @@ public class sum_average {
     public static void main(String[] args) {
         sumlogic obj=new sumlogic();
         Scanner sc=new Scanner(System.in);
-        System.out.print("Enter your Numbers: ");
+        System.out.println("Enter your Numbers: ");
         int arr[]=new int[5]; //Array Declaration
         for(int i=0;i<5;i++){ //Loop for Iteration
            arr[i]=sc.nextInt(); //Input in Array Indexes
