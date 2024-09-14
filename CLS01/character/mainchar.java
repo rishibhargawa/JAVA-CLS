@@ -9,3 +9,5 @@ public class mainchar {
         obj.str(s1);
     }
 }
+
+//MAIN FILE FOR VOWELS AND CONSONANTS

@@ -19,3 +19,5 @@ public class logic {
         System.out.println("Consonants are: "+c);
     }
 }
+
+//LOGIC FILE FOR VOWELS AND CONSONANTS
