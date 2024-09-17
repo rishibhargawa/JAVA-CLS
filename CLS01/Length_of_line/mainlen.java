@@ -1,9 +1,6 @@
 //WAP to accept 10 lines from user and display the second largest line.
 package Length_of_line;
 
-/**
- * mainlen
- */
 import java.util.Scanner;
 public class mainlen {
 
