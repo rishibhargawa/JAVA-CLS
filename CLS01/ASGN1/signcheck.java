@@ -13,5 +13,6 @@ public class signcheck {
         else{
             System.out.println("Number is Zero!!");
         }
+        sc.close();
     }
 }

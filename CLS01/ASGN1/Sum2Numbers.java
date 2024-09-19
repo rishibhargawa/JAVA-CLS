@@ -11,6 +11,6 @@ public class Sum2Numbers {
         System.out.println("Enter Second Number: ");
         int num2=sc.nextInt();
         System.out.println("SUM is: "+obj.Sum(num1, num2));
-
+        sc.close();
     }
 }

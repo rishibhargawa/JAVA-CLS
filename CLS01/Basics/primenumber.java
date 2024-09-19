@@ -16,5 +16,6 @@ public class primenumber {
         else{
             System.out.println("prime");
         }
+        sc.close();
     }
 }

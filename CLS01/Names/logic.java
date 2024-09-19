@@ -9,6 +9,7 @@ public class logic {
         String ls_name=sc.next();
         name obj=new name();
         System.out.println(obj.full_name(fs_name, ls_name));
+        sc.close();
     }
 }
 

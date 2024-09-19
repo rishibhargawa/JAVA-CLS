@@ -6,5 +6,6 @@ public class temperature {
         int Celcius=sc.nextInt();
         int fahrenheit=Celcius*9/5+32;
         System.out.println("Temperature in Fahrenheit: "+fahrenheit);
+        sc.close();
     }
 }

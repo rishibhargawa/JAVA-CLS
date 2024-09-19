@@ -6,5 +6,6 @@ public class square {
         int num=sc.nextInt();
         int square=num*num;
         System.out.println("Square of Number is : "+square);
+        sc.close();
     }   
 }

@@ -10,5 +10,6 @@ public class factors {
                 System.out.println(i+" is factor");
             }
         }
+        sc.close();
     }
 }

@@ -9,5 +9,6 @@ public class sum_of_numbers{
 			sum=sum+i;
 		}
 		System.out.print("SUM of "+num+" from 1 is "+sum);
+		sc.close();
 	}
 }

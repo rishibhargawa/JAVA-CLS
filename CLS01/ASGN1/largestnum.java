@@ -12,5 +12,6 @@ public class largestnum {
         else{
             System.out.println("Number 2 is Largest");
         }
+        sc.close();   
     }
 }

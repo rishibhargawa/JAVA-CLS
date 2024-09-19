@@ -15,5 +15,6 @@ public class calcMain {
         System.out.println("DIFFERENCE"+" "+res1);
         System.out.println("MULTIPLICATION"+" "+res2);
         System.out.println("DIVISION"+" "+res3);
+        sc.close();
     }
 }
