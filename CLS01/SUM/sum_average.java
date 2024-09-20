@@ -11,7 +11,7 @@ public class sum_average {
         }
         int result =obj.sum(arr); //Defined result var to call method
         System.out.println("SUM is: "+result);
-        System.out.println("Average is: "+result/5);
+        System.out.println("Average is: "+result/(float)arr.length);
         //sc.close();   
     }
 }
