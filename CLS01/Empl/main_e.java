@@ -1,5 +1,4 @@
 package Empl;
-
 public class main_e {
     public static void main(String[] args) {
         Employee employee = new Employee("Yash",200,19,"CSE");
